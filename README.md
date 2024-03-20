@@ -1,5 +1,17 @@
-# Popup Snackbar Sample
-Sample project for popup snackbar library
+# Popup Snack Bar Tutorial
+Tutorial project for popup snack bar library.
 
-# Technologies
-Kotlin, Android Studio, Popup Snackbar Library
+* ### Configuration
+  * https://sachithariyathilaka.medium.com/custom-popup-snack-bar-eb832f799a3b
+  
+* ### Technologies
+  * Kotlin
+  * Android
+  * Popup Snack Bar Library
+  
+* ### Release Note
+  * Release: 1.0.0
+  * Date: 2022/05/20
+  * Module: Popup Snack Bar Tutorial
+  * Changes
+    * Integrate the popup snack bar library.
