@@ -5,8 +5,8 @@ Tutorial project for popup snack bar library.
   * https://sachithariyathilaka.medium.com/custom-popup-snack-bar-eb832f799a3b
   
 * ### Technologies
-  * Kotlin
   * Android Development
+  * Kotlin
   * Popup Snack Bar Library
   * Gradle
   
